@@ -1,0 +1,17 @@
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.deps.json
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.runtimeconfig.json
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.dll
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.pdb
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/Newtonsoft.Json.dll
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.csproj.AssemblyReference.cache
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.AssemblyInfoInputs.cache
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.AssemblyInfo.cs
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.csproj.CoreCompileInputs.cache
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.csproj.CopyComplete
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.dll
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/refint/ChangeNameLibraryExportedCreativeCloud.dll
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.pdb
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ChangeNameLibraryExportedCreativeCloud.genruntimeconfig.cache
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/obj/Debug/net6.0/osx-x64/ref/ChangeNameLibraryExportedCreativeCloud.dll

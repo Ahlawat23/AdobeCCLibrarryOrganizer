@@ -1,0 +1,6 @@
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Release/net6.0/publish/ChangeNameLibraryExportedCreativeCloud
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Release/net6.0/publish/ChangeNameLibraryExportedCreativeCloud.dll
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Release/net6.0/publish/ChangeNameLibraryExportedCreativeCloud.deps.json
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Release/net6.0/publish/ChangeNameLibraryExportedCreativeCloud.runtimeconfig.json
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Release/net6.0/publish/ChangeNameLibraryExportedCreativeCloud.pdb
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Release/net6.0/publish/Newtonsoft.Json.dll

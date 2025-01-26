@@ -1,0 +1,2 @@
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/publish/ChangeNameLibraryExportedCreativeCloud.pdb
+/Users/nexgeninnovators/Downloads/ChangeNameLibraryExportedCreativeCloud/bin/Debug/net6.0/osx-x64/publish/ChangeNameLibraryExportedCreativeCloud
